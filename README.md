@@ -1,1 +1,3 @@
 # JavaFXCalendar
+
+This is a project I created for a class during the Fall semester. It implements a login in swing, calendar functionality with JavaFX, a custom written RSA cryptosystem for backend file encryption, and offers multithreading and an externally loaded database class which helps manage user login and general functions to handle saving. It implements several data structures and a few custom sorting algorithms based on common ones such as merge sort. It uses a few old mathematical formulas such as one to determine the day each month starts at with an accuracy of 100 years. I tried to provide sensible comments making the algorithms for working out the geometry of the graphics for the task list and for the mathematical formulas.
